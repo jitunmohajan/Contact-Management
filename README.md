@@ -10,6 +10,7 @@
 
 - TypeScript
 - React
+- React Router v6
 - React Query aka TanstackQuery
 - Chart.js
 - react-chartjs-2
