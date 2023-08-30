@@ -43,9 +43,7 @@ const CreateContact = () => {
     // form Submission function for creating contact
     const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
         event.preventDefault();
-        mutation.mutate(fields); 
-        alert('Order placed successfully')
-        
+        mutation.mutate(fields);         
         navigate('/')
     };
 

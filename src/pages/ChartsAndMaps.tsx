@@ -65,13 +65,15 @@ const ChartsAndMaps = () => {
 
   return (
     <div>
+      <h1 className='text-3xl flex align-center'>Chart </h1>
       <div className="flex justify-center">
-        <div style={{ width: '70%', height: '800px' }}>
+        <div style={{ width: '70%', height: '400px' }}>
           <Line data={graphValue}>Hello</Line>
         </div>
       </div>
-
+      <h1 className='text-3xl flex align-center'>Map </h1>
       <div className='flex justify-center'>
+        
       <MapContainer {...mapContainerProps}>
           <TileLayer
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
