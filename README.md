@@ -23,20 +23,20 @@
 
 - Contacts Page (/): The contacts page offers a comprehensive contact management system. Users can view, create, edit, and delete contact information. The data is stored in a MongoDB database, ensuring persistence and reliability.
 
-- Contact Page
+1. Contact Page
   ![Screenshot_9](/img/Screenshot_9.png)
-- Create Contact
+2. Create Contact
   ![Screenshot_1](/img/Screenshot_1.png)
-- Edit Contact
+3. Edit Contact
   ![Screenshot_4](/img/Screenshot_4.png)
-- View Contact Details(Click on Contact Card It Will show Contact Details)
+4. View Contact Details(Click on Contact Card It Will show Contact Details)
   ![Screenshot_2](/img/Screenshot_2.png)
-- Delete Contact
+5. Delete Contact
   ![Screenshot_10](/img/Screenshot_10.png)
 
 - Charts and Maps Page (/charts-and-maps): This page is dedicated to presenting data visualizations. It includes a chart showcasing COVID-19 cases fluctuation over different years using react-chartjs-2 and Chart.js. Additionally, there's a map component powered by React Leaflet, which displays country-specific COVID-19 statistics.
 
-- Charts and Maps Page
+1. Charts and Maps Page
   ![Screenshot_8](/img/Screenshot_8.png)
 
 ## Installation
