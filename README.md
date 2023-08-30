@@ -1,8 +1,10 @@
-## Live Website Link > https://64ef5b27d1e77c12074adb4e--capable-tulumba-934edf.netlify.app/
+## Website Link
+- [Live Website Link](https://64ef5b27d1e77c12074adb4e--capable-tulumba-934edf.netlify.app/)
 
-## Live Server Link > https://contact-management-server-jitunmohajan.vercel.app/
+- [Live Server Link](https://contact-management-server-jitunmohajan.vercel.app/)
 
-## Server Github Link > https://github.com/jitunmohajan/Contact-Management-Server
+
+- [Server Github Link](https://github.com/jitunmohajan/Contact-Management-Server)
 
 ## Dependencies
 
@@ -45,7 +47,7 @@
 git clone https://github.com/jitunmohajan/Contact-Management.git
 ```
 
-- step 2 npm install
+- Step 2: npm install
 
 ```
 npm i
